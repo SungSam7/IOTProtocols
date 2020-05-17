@@ -10,6 +10,8 @@ Video Link - https://www.youtube.com/watch?v=te4P52xgphM&feature=youtu.be
 
 My input towards this project is to implement a LPWAN (Low Power Wide Area Network) into a buoy off the coast of the south of Ireland. My plan is to design a wireless communication that uses low amount of battery uses to feed data to other members in a different department in the team. This would mean LPWAN would need to use small amounts of power and at the same time would need to offer data a great distance from its source. I plan to look at Sigfox’s SiPY hardware to move forward with my proposal. Updates will be given weekly on my progress with this project.
 
+![SiPY hardware](https://user-images.githubusercontent.com/47003202/82155608-1555f200-986e-11ea-819e-8725f7318e46.jpg)
+
 ### First entry – 2/3/2020
 
 This was the first practical class working with LPWAN, our project leader unfortunately notified us that the materials on LPWAN were out of date. However, I was given the SiPY (Pycom) hardware for the first time to look and use to see where I can move forward using it. Just googling SiPY showed that this small piece of hardware had many uses in many projects, something I was amazed by. I continued to mess around and see the designs and how people implemented the SiPY into various projects.
