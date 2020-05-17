@@ -1,4 +1,5 @@
-Sea Sensor Marine Monitor
+# Sea Sensor Marine Monitor
+
 The overall project is to take data from a buoy station off Tramore bay and to use this data aid the locals to decide whether it is safe to swim/surf. The project was intended to be done as a team, with the workload split among the members. 
 Sea Sensor Website - https://sungsam7.github.io/IOTProtocols/
 Video Link - https://www.youtube.com/watch?v=te4P52xgphM&feature=youtu.be
