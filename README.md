@@ -6,22 +6,25 @@ Sea Sensor Website - https://sungsam7.github.io/IOTProtocols/
 
 Video Link - https://www.youtube.com/watch?v=te4P52xgphM&feature=youtu.be
 
-Initial Proposal – Application
+## Initial Proposal – Application
+
 My input towards this project is to implement a LPWAN (Low Power Wide Area Network) into a buoy off the coast of the south of Ireland. My plan is to design a wireless communication that uses low amount of battery uses to feed data to other members in a different department in the team. This would mean LPWAN would need to use small amounts of power and at the same time would need to offer data a great distance from its source. I plan to look at Sigfox’s SiPY hardware to move forward with my proposal. Updates will be given weekly on my progress with this project.
 
-First entry – 2/3/2020
+### First entry – 2/3/2020
+
 This was the first practical class working with LPWAN, our project leader unfortunately notified us that the materials on LPWAN were out of date. However, I was given the SiPY (Pycom) hardware for the first time to look and use to see where I can move forward using it. Just googling SiPY showed that this small piece of hardware had many uses in many projects, something I was amazed by. I continued to mess around and see the designs and how people implemented the SiPY into various projects.
 
 
 
 
-Update – 9/3/2020
+### Update – 9/3/2020
+
 There has not been much movement going forward this week, I have not managed to sign up to Sigfox to be able to use the SiPY. This week has been a quiet one and not much to report on, I plan to move forward with greater success with my next weekly update. Still looking at what direction to take moving forward. 
 
-Update – 16/3/2020
+### Update – 16/3/2020
 This week has been a disaster, project is under threat of being put on the back burner due to COVID-19. Schools/Colleges have been told to close due to the pandemic, there is no access to any materials within the college to continue working with the SiPY. All I have on me currently is the SiPY and nothing else. I will be contacting the project leader on how to move forward with the project in the next week or so. 
 
-Update – 4/4/2020
+### Update – 4/4/2020
 I have not updated my progress for a few weeks now due to not having any new details regarding the project. Our project leader emailed me asking if I still wanted to proceed with the LPWAN base station (2/2/2020). After looking around and double checking did I have what I needed to continue with my end of the project, I have decided to go in another direction as I don’t have what is needed to continue, disappointing but nothing more can be done (SenseHat). I have replied to him with some good news, I share a house a friend who is also working on the project but in another area of it.  I can get data from his side of the project and display the data received on graphs using ThingSpeak (www.ThingSpeak.com). Project looks promising again, hopefully it will come together near the end. 
 
 Update – 16/4/2020
